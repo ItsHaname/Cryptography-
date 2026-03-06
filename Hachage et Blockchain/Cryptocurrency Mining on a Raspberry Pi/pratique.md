@@ -1,5 +1,4 @@
-# 1. Ouvrir raspi-config
-<img width="896" height="414" alt="image" src="https://github.com/user-attachments/assets/0225312f-21b8-4c75-ad98-a6eb1b739ff5" />
+
 <img width="930" height="732" alt="image" src="https://github.com/user-attachments/assets/c672e789-f595-47ed-ac43-ecc0afdaf2e1" />
 <img width="930" height="732" alt="image" src="https://github.com/user-attachments/assets/e91ef56b-dc1e-42ea-9d1e-3e77470c4b14" />
 just simple mode 
