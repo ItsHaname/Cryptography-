@@ -7,6 +7,7 @@
 ![Miner](https://img.shields.io/badge/Miner-XMRig-00ADEF?style=for-the-badge)
 
 > **Projet académique — Cours Hachage & Blockchain — Pr. EL KIRAM**
+
 > Inspiré de la vidéo NetworkChuck : https://www.youtube.com/watch?v=hHtGN_JzoP8
 
 ---
