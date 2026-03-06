@@ -1,6 +1,9 @@
 # Etude de cas : Traçabilité agroalimentaire avec la blockchain
-Contexte
-	Un groupe d’exportateurs de produits agricoles au Maroc souhaite améliorer la traçabilité des fruits exportés vers l’Europe.
+<img width="1112" height="767" alt="image" src="https://github.com/user-attachments/assets/8c89b09f-610b-4ecd-92ef-4db968994e7f" />
+<img width="981" height="639" alt="image" src="https://github.com/user-attachments/assets/f3c73fed-2aa8-41d8-af68-418c8154e5ee" />
+
+# Contexte
+Un groupe d’exportateurs de produits agricoles au Maroc souhaite améliorer la traçabilité des fruits exportés vers l’Europe.
 
 Les clients européens exigent :
 Transparence sur l’origine
