@@ -17,7 +17,7 @@ verify_chain()   → vérifier que personne n'a triché
 #include<stdio.h>
 #include<stdlib.h>
 #include<openssl/sha.h>
-
+#include<string.h>
 typedef struct Block
  {
     int indice;
