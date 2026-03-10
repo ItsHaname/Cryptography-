@@ -3,8 +3,8 @@
  *  BLOCKCHAIN TRACABILITE AGROALIMENTAIRE
  *  Genere blockchain.html avec QR code integre
  *
- *  Compilation :  gcc -o blockchain main.c
- *  Lancer      :  ./blockchain && firefox blockchain.html
+ *  Compilation : cc  main.c
+ *  Lancer      :  ./a.out && firefox blockchain.html
  * ============================================================ */
 
 #include <stdio.h>
