@@ -15,7 +15,7 @@
 8. [Simulation d'attaque — comment on détecte un hacker](#8-simulation-dattaque)
 9. [Le QR Code — comment ça marche](#9-le-qr-code)
 10. [Comment compiler et lancer](#10-comment-compiler-et-lancer)
-11. [Ce que tu dis au prof en 30 secondes](#11-ce-que-tu-dis-au-prof)
+
 
 ---
 
@@ -533,7 +533,6 @@ xdg-open blockchain.html
 
 ---
 
-## 11. Ce que tu dis au prof
 
 ### En 30 secondes
 
