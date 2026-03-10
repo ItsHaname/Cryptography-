@@ -122,10 +122,6 @@ static void computeHash(const char *input, char out[32])
 1. On part du nombre `5381`
 2. Pour chaque lettre du texte, on fait un calcul mathématique
 3. Le résultat final est un grand nombre unique → c'est le hash
-
-> **Note :** C'est le même algorithme que le projet C++ de l'ami !
-> La différence c'est que lui utilise `std::string` et nous utilisons `char[]`
-
 ---
 
 ## 4. Comment les blocs sont liés ?
