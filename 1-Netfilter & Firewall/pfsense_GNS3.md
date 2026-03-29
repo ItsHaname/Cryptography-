@@ -377,8 +377,6 @@ ping 192.168.0.4   # Serveur Mail
 
 ## 10. Récapitulatif Final
 
-<img width="731" height="463" alt="Récapitulatif complet pfSense" src="https://github.com/user-attachments/assets/96f0deaa-b679-4250-83b2-2d087922a6a0" />
-
 | Étape | Configuration | Statut |
 |-------|--------------|--------|
 | 1 | Règles LAN Admin (SSH + Ping Supervision) | ✅ |
