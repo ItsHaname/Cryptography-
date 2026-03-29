@@ -40,7 +40,7 @@
 | Serveur DNS | `192.168.0.5` | BIND9 | 53 |
 | Serveur Mail | `192.168.0.4` | Postfix SMTP | 25 |
 
-<img width="1120" height="813" alt="Topologie réseau GNS3" src="https://github.com/user-attachments/assets/216e553d-d564-48a1-bcd4-53560197e062" />
+<img width="1213" height="811" alt="image" src="https://github.com/user-attachments/assets/b4aaa4e7-28bb-453b-ba94-70d6889fd693" />
 
 <img width="685" height="325" alt="Interfaces pfSense" src="https://github.com/user-attachments/assets/c2c03d7e-119b-42b8-9d27-d08f8ccbd701" />
 
@@ -391,6 +391,13 @@ ping 192.168.0.4   # Serveur Mail
 | 10 | Protection scan de port | ✅ |
 | 11 | Protection ping de mort | ✅ |
 | 12 | Tests de connectivité (ping DMZ) | ✅ |
+---
+
+Autre teste depuis debian rn utulisent nc 
+<img width="666" height="444" alt="image" src="https://github.com/user-attachments/assets/d17ec953-4ad4-412d-8876-1dd4de2a4cd7" />
+
+Depuis Supervision (192.168.1.3) 
+<img width="487" height="314" alt="image" src="https://github.com/user-attachments/assets/610ff6e4-32ca-4282-85d8-482ea7e98413" />
 
 ---
 
